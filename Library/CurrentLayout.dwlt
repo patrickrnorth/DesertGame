@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 572}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 90593
+  controlID: 225
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 572}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 0
-  controlID: 90594
+  controlID: 226
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 572}
   m_MaxSize: {x: 4002, y: 12072}
   vertical: 1
-  controlID: 90595
+  controlID: 227
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 90403
+  controlID: 302
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -375,7 +375,7 @@ MonoBehaviour:
     width: 1748
     height: 445
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 0
+  m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -588,10 +588,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 80}
-      m_SelectedIDs: ca6b0500
-      m_LastClickedID: 355274
-      m_ExpandedIDs: 0e84fcff3484fcffb885fcff92c6fcffb8c6fcff3ec8fcffdcf4fcff02f5fcff88f6fcffd640fdff8a53fdffbaa8fdffe0a8fdff62aafdff5cfafeffc416ffffc816ffff222cffff2e2cffffde3ffffff27efffff47effff58a5ffff00b8ffff7abfffffd4c8fffffaf8fffffcf8fffffef8ffff00f9ffff02f9ffff04f9ffff06f9ffff08f9ffff0af9ffff0cf9ffff0ef9ffff10f9ffff14f9ffff18f9ffff1cf9ffff1ef9ffff20f9ffff22f9ffff24f9ffff26f9ffff28f9ffff2af9ffff2cf9ffff2ef9ffff30f9ffff72f9ffff78f9ffff96f9ffffd4f9ffffd6f9ffffd8f9ffffdaf9ffffdcf9ffffdef9ffffe0f9ffffe2f9ffffe8f9ffffeaf9ffffeef9fffff0f9fffff2f9fffff4f9fffff6f9fffff8f9fffffaf9fffffcf9fffffef9ffff00faffff02faffff04faffff06faffff08faffff0afaffff0cfaffff0efaffff10faffff12faffff68faffff7cfaffff92faffffdcfbffff56870100d8890100788b010076480300aa4903009a4a030086800300aa8503002a0b040046a2040008a30400cea80400386b0500406b0500e46c0500246d0500cc710500
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -652,21 +652,19 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Scripts
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 32
   m_LastFolders: []
   m_LastFoldersGridSize: 32
-  m_LastProjectPath: E:\Rynomite\Documents\Unity Projects\New Unity Project\Egypt
-    Game
+  m_LastProjectPath: F:\Github Projects\EgyptGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3e350000
     m_LastClickedID: 13630
-    m_ExpandedIDs: ffffffff00000000fa2600000a2700003e270000682700006e270000b4270000ba270000b228000038290000702900009a290000a0290000d6290000e6290000842a0000a22a0000bc2a0000f82a0000fa2a00008e2b0000c42b0000ca2b0000342c0000762c0000c82d0000f82d0000482f0000a83900000e4001000641010014410100288d02008c7303009e730300a6730300b2730300b6730300bc730300c0730300
+    m_ExpandedIDs: ffffffff0000000098270000ac270000e8270000f02700001a280000822800008c2800000c2a0000482a00006e2a0000922a0000a42a0000aa2a0000c82a0000f22a00008c2b0000a22b0000be2b0000202c0000502c0000ba2c0000e42c00000c2d0000122d00004e2d0000a62d0000ee2d0000402f00005a2f0000ca300000783700007a3700007c3700007e3700008037000082370000843700008637000088370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -694,7 +692,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000fa2600000a2700003e270000682700006e270000b4270000ba270000b228000038290000702900009a290000a0290000d6290000e6290000842a0000a22a0000bc2a0000f82a0000fa2a00008e2b0000c42b0000ca2b0000342c0000762c0000c82d0000f82d0000482f0000a83900000e4001000641010014410100288d02008c7303009e730300a6730300b2730300b6730300bc730300c0730300
+    m_ExpandedIDs: ffffffff0000000098270000ac270000e8270000f02700001a280000822800008c2800000c2a0000482a00006e2a0000922a0000a42a0000aa2a0000c82a0000f22a00008c2b0000a22b0000be2b0000202c0000502c0000ba2c0000e42c00000c2d0000122d00004e2d0000a62d0000ee2d0000402f00005a2f0000ca300000783700007a3700007c3700007e3700008037000082370000843700008637000088370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
